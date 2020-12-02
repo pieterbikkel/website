@@ -1,28 +1,31 @@
 {
   "files": {
-    "main.css": "/website/static/css/main.825472b6.chunk.css",
-    "main.js": "/website/static/js/main.1d5ca5c1.chunk.js",
-    "main.js.map": "/website/static/js/main.1d5ca5c1.chunk.js.map",
+    "main.css": "/website/static/css/main.54994fe5.chunk.css",
+    "main.js": "/website/static/js/main.4d1d222f.chunk.js",
+    "main.js.map": "/website/static/js/main.4d1d222f.chunk.js.map",
     "runtime-main.js": "/website/static/js/runtime-main.27fe5837.js",
     "runtime-main.js.map": "/website/static/js/runtime-main.27fe5837.js.map",
     "static/css/2.43b2b750.chunk.css": "/website/static/css/2.43b2b750.chunk.css",
-    "static/js/2.6f99e827.chunk.js": "/website/static/js/2.6f99e827.chunk.js",
-    "static/js/2.6f99e827.chunk.js.map": "/website/static/js/2.6f99e827.chunk.js.map",
+    "static/js/2.9cb24c4c.chunk.js": "/website/static/js/2.9cb24c4c.chunk.js",
+    "static/js/2.9cb24c4c.chunk.js.map": "/website/static/js/2.9cb24c4c.chunk.js.map",
     "static/js/3.d5de7b79.chunk.js": "/website/static/js/3.d5de7b79.chunk.js",
     "static/js/3.d5de7b79.chunk.js.map": "/website/static/js/3.d5de7b79.chunk.js.map",
     "index.html": "/website/index.html",
     "static/css/2.43b2b750.chunk.css.map": "/website/static/css/2.43b2b750.chunk.css.map",
-    "static/css/main.825472b6.chunk.css.map": "/website/static/css/main.825472b6.chunk.css.map",
-    "static/js/2.6f99e827.chunk.js.LICENSE.txt": "/website/static/js/2.6f99e827.chunk.js.LICENSE.txt",
+    "static/css/main.54994fe5.chunk.css.map": "/website/static/css/main.54994fe5.chunk.css.map",
+    "static/js/2.9cb24c4c.chunk.js.LICENSE.txt": "/website/static/js/2.9cb24c4c.chunk.js.LICENSE.txt",
     "static/media/app.7e5e83b1.jpg": "/website/static/media/app.7e5e83b1.jpg",
     "static/media/fix.01b05e70.jpeg": "/website/static/media/fix.01b05e70.jpeg",
-    "static/media/ik.9c5e9e06.jpeg": "/website/static/media/ik.9c5e9e06.jpeg"
+    "static/media/ik.9c5e9e06.jpeg": "/website/static/media/ik.9c5e9e06.jpeg",
+    "static/media/motogp.0f7000d8.png": "/website/static/media/motogp.0f7000d8.png",
+    "static/media/programming.58f96084.jpeg": "/website/static/media/programming.58f96084.jpeg",
+    "static/media/volleybal.0eb336e5.jpeg": "/website/static/media/volleybal.0eb336e5.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.27fe5837.js",
     "static/css/2.43b2b750.chunk.css",
-    "static/js/2.6f99e827.chunk.js",
-    "static/css/main.825472b6.chunk.css",
-    "static/js/main.1d5ca5c1.chunk.js"
+    "static/js/2.9cb24c4c.chunk.js",
+    "static/css/main.54994fe5.chunk.css",
+    "static/js/main.4d1d222f.chunk.js"
   ]
 }
